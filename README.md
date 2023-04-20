@@ -1,5 +1,7 @@
+# This repo is the fork of :
 ## Efficient Robustness Certificates for Discrete Data 
 
+Purpose of this fork is to complete the pipeline for our work proposed in the paper 'Discrete randomized smoothing meets quantum computing'
 <p align="center">
 <img src="https://www.in.tum.de/fileadmin/w00bws/daml/sparse_smoothing/sparse_smoothing.png" width="500">
 
